@@ -3,7 +3,7 @@
   🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
   
 - 👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
-- 🌱 I’m currently Working on Mchine learning based Projects
+- 🌱 I’m currently Working on Machine learning based Projects
 - ✈️ Apart from academics I enjoy traveling and trekking.
 - 📫 How to reach me ...kalyanmurapaka274@gmail.com
 - ✍️ Follow me on:
