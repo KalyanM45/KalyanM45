@@ -1,6 +1,6 @@
 <a href="https://hemakalyan.netlify.app/">![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Github%20Banner.png)></a>
 <h1 align="center">Hi 👋, I'm Hema Kalyan Murapaka</h1>
-<h3 align="center">I'm an Data Science Enthusiast from India</h3>
+<h3 align="center">A Data Science Enthusiast from India</h3>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hemakalyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hemakalyan" /></a></p><br><br>
 
