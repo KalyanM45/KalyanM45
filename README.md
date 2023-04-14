@@ -1,18 +1,27 @@
 <a href="https://hemakalyan.netlify.app/">![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Github%20Banner.png)></a>
+<h1 align="center">Hi 👋, I'm Hema Kalyan Murapaka</h1>
+<h3 align="center">I'm an aspiring Data Science Enthusiast from India</h3>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hemakalyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hemakalyan" /></a></p><br><br>
 
-- 👋 Hi, I’m @KalyanMurapaka45
-- 👀 I'm an aspiring Machine learning engineer.
-  🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
-  
+-🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
 - 👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
 - 🌱 I’m currently Working on Machine learning based Projects
 - ✈️ Apart from academics I enjoy traveling and trekking.
 - 📫 How to reach me ...kalyanmurapaka274@gmail.com
 - ✍️ Follow me on:
-- https://medium.com/@kalyanmurapaka274
-- https://www.instagram.com/im_kalyan_274
-- https://twitter.com/HemaKalyan26
-- https://www.linkedin.com/in/hema-kalyan-murapaka-3048b422b
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hemakalyan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemakalyan26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hema-kalyan-murapaka-3048b422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-kalyan-murapaka-3048b422b" height="30" width="40" /></a>
+<a href="https://kaggle.com/kalyanmurapaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kalyanmurapaka" height="30" width="40" /></a>
+<a href="https://instagram.com/im_kalyan_274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_kalyan_274" height="30" width="40" /></a>
+<a href="https://medium.com/@kalyanmurapaka274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kalyanmurapaka274" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Let me Show you the Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanmurapaka45&show_icons=true&locale=en" alt="kalyanmurapaka45" /></p>
 <!---
 KalyanMurapaka45/KalyanMurapaka45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
