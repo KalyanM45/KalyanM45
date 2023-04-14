@@ -1,4 +1,4 @@
-![logo](https://github.com/)
+![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Github%20Banner.png)
 
 - 👋 Hi, I’m @KalyanMurapaka45
 - 👀 I'm an aspiring Machine learning engineer.
