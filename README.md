@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-kalyan-murapaka-3048b422b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![Kaggle](https://img.shields.io/badge/-Kaggle-blue.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kalyanmurapaka) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-kalyan-murapaka-3048b422b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![Kaggle](https://img.shields.io/badge/-Kaggle-blue.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kalyanmurapaka) [![Twitter](https://img.shields.io/badge/-Twitter-orange.svg?logo=Twitter&logoColor=white)](https://twitter.com/hemakalyan26) 
   
 <a href="https://twitter.com/hemakalyan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemakalyan26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hema-kalyan-murapaka-3048b422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-kalyan-murapaka-3048b422b" height="30" width="40" /></a>
