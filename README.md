@@ -13,10 +13,16 @@
 - 🌱 I’m currently Working on Advanced Deep Learning learning based Projects
 - ✈️ Apart from academics I enjoy traveling and trekking.
 - 📫 How to reach me ...kalyanmurapaka274@gmail.com
+
+
+
 - ✍️ Follow me on:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/koushikmodekurti/) 
+  
 <a href="https://twitter.com/hemakalyan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemakalyan26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hema-kalyan-murapaka-3048b422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-kalyan-murapaka-3048b422b" height="30" width="40" /></a>
 <a href="https://kaggle.com/kalyanmurapaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kalyanmurapaka" height="30" width="40" /></a>
