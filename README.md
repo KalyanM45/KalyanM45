@@ -8,8 +8,6 @@
 <br>
 <br>
 
-<img  align="center" alt="Coding" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286.gif">
-
 - 🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
 - 👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
 - 🌱 I’m currently Working on Advanced Deep Learning learning based Projects
