@@ -43,6 +43,9 @@
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dark&hide_border=false)<br/>
   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanMurapaka45&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </center>
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /> </p>
 
