@@ -32,10 +32,7 @@
 
 
 <h3 align="left">Let me Show you the Stats:</h3>
-<center>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
+<center>  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dark&hide_border=false)<br/>
   
 
