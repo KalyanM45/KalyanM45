@@ -7,7 +7,7 @@
 - 🌱 I’m currently Working on Advanced Deep Learning learning based Projects
 - ✈️ Apart from academics I enjoy traveling and trekking.
 - 📫 How to reach me ...kalyanmurapaka274@gmail.com
-- 📄 **Resume** : [Click to view](https://drive.google.com/file/d/1abpqC5dtyaEFIbEfGGYQFf1z2CRHH58w/view?usp=sharing)
+- 📄 **Resume** : [Click to view](https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
