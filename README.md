@@ -42,5 +42,3 @@
 </center>
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=KalyanMurapaka45&icon=9&color=0)](https://visitcount.itsvg.in)
-
