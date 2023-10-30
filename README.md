@@ -34,12 +34,6 @@
 <h3 align="left">Let me Show you the Stats:</h3>
 <center>  
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dark&hide_border=false)<br/>
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanMurapaka45&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanMurapaka45&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
