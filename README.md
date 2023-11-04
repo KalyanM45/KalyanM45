@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Murapaka Hema Kalyan</h1>
 <h3 align="center">A Data Science & Machine Learning Enthusiast from India</h3>
 
-Artiles
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Science+and+Machine+Learning+%3A)" /> </h3>
 
 - 🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
