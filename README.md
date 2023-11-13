@@ -37,7 +37,7 @@
 
 ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KalyanMurapaka45)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KalyanMurapaka45&theme=vue-dark)](https://git.io/streak-stats)
 
 ![KalyanMurapaka45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=vue-dark&hide_border=true)
 
