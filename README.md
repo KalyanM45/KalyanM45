@@ -35,10 +35,6 @@
 
 <h3 align="left">Let me Show you the Stats:</h3>
 
-![KalyanMurapaka45's Stats](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![KalyanMurapaka45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=vue-dark&hide_border=true)
-
 ![KalyanMurapaka45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=vue-dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KalyanMurapaka45&theme=dark)](https://git.io/streak-stats)
