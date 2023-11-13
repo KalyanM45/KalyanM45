@@ -17,9 +17,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-kalyan-murapaka-3048b422b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![Kaggle](https://img.shields.io/badge/-Kaggle-blue.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kalyanmurapaka) [![Twitter](https://img.shields.io/badge/-Twitter-orange.svg?logo=Twitter&logoColor=white)](https://twitter.com/hemakalyan26)  [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@kalyanmurapaka274)
   
  
-<h2 align="left">Tech Stack</h2>
-
-Certainly! Here's the information in the format you provided:
+<h2 align="left">Skills & Tech Stack</h2>
 
 | **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** |
 | :---: | :---: | :---: | :---: | :---: |
