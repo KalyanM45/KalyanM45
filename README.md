@@ -19,17 +19,25 @@
  
 <h2 align="left">Tech Stack</h2>
 
-| Machine Learning | Deep Learning | Computer Vision | Natural Language Processing | Data Science |
+Certainly! Here's the information in the format you provided:
+
+| **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** |
 | :---: | :---: | :---: | :---: | :---: |
 
-| C | Python | Java | SQL | Flask | Streamlit |  Netlify | Heroku | Tableau | PowerBI | Image & Video Processing |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |  
+| **Python** | **Java** | **C** | **OOPs Concepts** | **Git** | **GitHub** | **Docker** | **TensorFlow** | **OpenCV** | **Flask** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| Numpy | Pandas | Plotly | Scikit-Learn | Seaborn | Matplotlib | Opencv | Openai | Data Visualisation |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Streamlit** | **Netlify** | **Heroku** | **PowerBI** | **Tableau** | **OpenAI** | **Langchain** | **MongoDB** | **SQL** | **Hugging Face** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| Dockers | Pytorch | Tensorflow | Keras | MongoDB | Pycharm | Spyder | GoogleColab | Jupyter Notebook |  
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| **Data Version Control** | **Statistics** | **Data Analysis** | **Neural Networks** | **Web Scraping** |
+| :---: | :---: | :---: | :---: | :---: |
+
+| **NumPy** | **Pandas** | **Matplotlib** | **Seaborn** | **PyCaret** | **Scikit-learn** | **Problem Solving & Analysis** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+| **Supervised ML Algorithms** | **Unsupervised Algorithms** | **Data Visualization** | **Clustering** |
+| :---: | :---: | :---: | :---: |
 
 
 
