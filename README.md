@@ -28,8 +28,8 @@
 | Numpy | Pandas | Plotly | Scikit-Learn | Seaborn | Matplotlib | Opencv | Openai | Data Visualisation |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| Dockers | Pytorch | Tensorflow | Keras | MongoDB | Pycharm | Spyder | GoogleColab | Jupyter Notebook | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Dockers | Pytorch | Tensorflow | Keras | MongoDB | Pycharm | Spyder | GoogleColab | Jupyter Notebook |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 
 
 
