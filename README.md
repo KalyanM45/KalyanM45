@@ -11,7 +11,7 @@
 - 📫 How to reach me ...kalyanmurapaka274@gmail.com
 - 📄 **Resume** : [Click to view](https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing)
 
-<h2 align="left">Connect with me:</h2>a
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-kalyan-murapaka-3048b422b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![Kaggle](https://img.shields.io/badge/-Kaggle-blue.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kalyanmurapaka) [![Twitter](https://img.shields.io/badge/-Twitter-orange.svg?logo=Twitter&logoColor=white)](https://twitter.com/hemakalyan26)  [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@kalyanmurapaka274)
