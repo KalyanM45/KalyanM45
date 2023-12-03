@@ -57,10 +57,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanMurapaka45&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
- 
- 
+
+<!-- Profile Visitors Count -->
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /> </p>
-
-
-
-
