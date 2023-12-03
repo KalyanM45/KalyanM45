@@ -10,14 +10,14 @@
   <br>
   <br>
   👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
-  <br>
+  <be><br>
   🌱 I’m currently Working on Generative Artificial Intelligence Projects
-  <br>
+  <br><br>
   ✈️ Apart from academics I enjoy traveling and trekking.
-  <br>
+  <br><br>
   📫 How to reach me ...kalyanmurapaka274@gmail.com
-  <br>
-  📄 **Resume** : [Click to view](https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing)
+  <br><br>
+  📄 **Resume** : <a href="https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing" title="Resume">Click Here</a>
 </p>
 
 <h2 align="left">Connect with me:</h2>
