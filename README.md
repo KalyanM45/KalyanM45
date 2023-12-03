@@ -22,14 +22,10 @@
 <code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></code>
 <code><a href="https://medium.com/@kalyanmurapaka274" title="Medium Profile"><img width="95" src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=Black"></a></code>
 </h5>
-
-
-
-
-
  
 <h2 align="left">Skills & Tech Stack</h2>
 
+<p>
 | **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** |
 | :---: | :---: | :---: | :---: | :---: |
 
@@ -47,8 +43,7 @@
 
 | **Supervised ML Algorithms** | **Unsupervised Algorithms** | **Data Visualization** | **Clustering** |
 | :---: | :---: | :---: | :---: |
-
-
+</p>
 
 <h3 align="left">Let me Show you the Stats:</h3>
 
