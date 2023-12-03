@@ -7,15 +7,14 @@
 
 <p align="center">
   🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
-  <br>
-  <br>
+  <br><br>
   👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
   <br><br>
   🌱 I’m currently Working on Generative Artificial Intelligence Projects
   <br><br>
-  ✈️ Apart from academics I enjoy traveling and trekking.
+  ✈️ Apart from academics I enjoy Blogging, traveling and trekking.
   <br><br>
-  📫 How to reach me ...kalyanmurapaka274@gmail.com
+  📫 How to reach me: <a href="mailto: kalyanmurapaka274@gmail.com">kalyanmurapaka274@gmail.com</a>
   <br><br>
   📄 **Resume** : <a href="https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing" title="Resume">Click Here</a>
 </p>
