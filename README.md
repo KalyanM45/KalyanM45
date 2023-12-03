@@ -1,3 +1,4 @@
+
 <a href="https://hemakalyan.netlify.app/">![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Github%20Banner.png)></a>
 <h1 align="center">Hi 👋 I'm Murapaka Hema Kalyan</h1>
 <h3 align="center">A Data Science & Machine Learning Enthusiast from India</h3>
@@ -45,6 +46,8 @@
 
 
 <img width="50%" align="left" src="https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark"/>
+
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 
 
 <a href="http://www.github.com/KalyanMurapaka45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
