@@ -19,7 +19,6 @@
   📄 Resume : <a href="https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing" title="Resume">Click Here</a>
 </p>
 
-<h2 align="left">Connect with me:</h2>
 
 <h5 align="center">
 <code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></code>
