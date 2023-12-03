@@ -36,11 +36,11 @@
 | **Python** | **Java** | **C** | **OOPs Concepts** | **Git** | **GitHub** | **Docker** | **TensorFlow** | **OpenCV** | **Flask** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| **Streamlit** | **Netlify** | **Heroku** | **PowerBI** | **Tableau** | **OpenAI** | **Langchain** | **MongoDB** | **SQL** | **Hugging Face** |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Streamlit** | **Netlify** | **Heroku** | **PowerBI** | **Tableau** | **OpenAI** | **Langchain** | **MongoDB** | **Hugging Face** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| **Data Version Control** | **Statistics** | **Data Analysis** | **Neural Networks** | **Web Scraping** |
-| :---: | :---: | :---: | :---: | :---: |
+| **SQL** | **Data Version Control** | **Statistics** | **Data Analysis** | **Neural Networks** | **Web Scraping** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 | **NumPy** | **Pandas** | **Matplotlib** | **Seaborn** | **PyCaret** | **Scikit-learn** | **Problem Solving & Analysis** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
