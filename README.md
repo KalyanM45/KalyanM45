@@ -16,7 +16,7 @@
   <br><br>
   📫 How to reach me: <a href="mailto: kalyanmurapaka274@gmail.com">kalyanmurapaka274@gmail.com</a>
   <br><br>
-  📄 **Resume** : <a href="https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing" title="Resume">Click Here</a>
+  📄 Resume : <a href="https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing" title="Resume">Click Here</a>
 </p>
 
 <h2 align="left">Connect with me:</h2>
