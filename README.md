@@ -21,7 +21,14 @@
 
 <h2 align="left">Connect with me:</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-kalyan-murapaka-3048b422b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![Kaggle](https://img.shields.io/badge/-Kaggle-blue.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kalyanmurapaka) [![Twitter](https://img.shields.io/badge/-Twitter-orange.svg?logo=Twitter&logoColor=white)](https://twitter.com/hemakalyan26)  [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@kalyanmurapaka274)
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
+  [![LinkedIn]()](https://linkedin.com/in/hema-kalyan-murapaka-3048b422b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_kalyan_274) [![Kaggle](https://img.shields.io/badge/-Kaggle-blue.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kalyanmurapaka) [![Twitter](https://img.shields.io/badge/-Twitter-orange.svg?logo=Twitter&logoColor=white)](https://twitter.com/hemakalyan26)  [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@kalyanmurapaka274)
 
  
 <h2 align="left">Skills & Tech Stack</h2>
