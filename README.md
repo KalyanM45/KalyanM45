@@ -46,8 +46,7 @@
 
 <h2 align="left"> Let me Show you the Stats: </h2>
 
-![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark)
-
+![Hema Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark&show_icons=true)
 
 <a href="http://www.github.com/KalyanMurapaka45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"></a>
 
