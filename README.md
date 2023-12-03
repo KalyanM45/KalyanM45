@@ -5,32 +5,19 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Science+and+Machine+Learning+%3A)" /> </h3>
 
-- 🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
-- 👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
-- 🌱 I’m currently Working on Advanced Deep Learning learning based Projects
-- ✈️ Apart from academics I enjoy traveling and trekking.
-- 📫 How to reach me ...kalyanmurapaka274@gmail.com
-- 📄 **Resume** : [Click to view](https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing)
-
 <p align="center">
   🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🌱 I’m currently Working on Generative Artificial Intelligence Projects
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  ✈️ Apart from academics I enjoy traveling and trekking.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📫 How to reach me ...kalyanmurapaka274@gmail.com
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📄 **Resume** : [Click to view](https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing)
 </p>
 
 <h2 align="left">Connect with me:</h2>
