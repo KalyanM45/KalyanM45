@@ -22,7 +22,7 @@
 <h2 align="left">Connect with me:</h2>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
