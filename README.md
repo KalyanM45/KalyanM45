@@ -1,6 +1,12 @@
 
 <a href="https://hemakalyan.netlify.app/">![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Github%20Banner.png)></a>
 <h1 align="center">Hi 👋 I'm Murapaka Hema Kalyan</h1>
+
+<h5 align="center">
+<code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></code>
+<code><a href="https://medium.com/@kalyanmurapaka274" title="Medium Profile"><img width="95" src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white"></a></code>
+</h5>
+
 <h3 align="center">A Data Science & Machine Learning Enthusiast from India</h3>
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Science+and+Machine+Learning+%3A)" /> </h3>
@@ -20,10 +26,7 @@
 </p>
 
 
-<h5 align="center">
-<code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></code>
-<code><a href="https://medium.com/@kalyanmurapaka274" title="Medium Profile"><img width="95" src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white"></a></code>
-</h5>
+
 
 
  
