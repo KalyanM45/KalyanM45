@@ -46,8 +46,6 @@
 
 <h3 align="left"> Let me Show you the Stats: </h3>
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=KalyanMurapaka45&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
-
 ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark)
 
 
