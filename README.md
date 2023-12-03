@@ -43,6 +43,10 @@
 
 ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark)
 
+
+<img width="50%" align="left" src="https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark"/>
+
+
 <a href="http://www.github.com/KalyanMurapaka45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KalyanMurapaka45&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
