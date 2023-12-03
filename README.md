@@ -43,7 +43,7 @@
 | **Supervised ML Algorithms** | **Unsupervised Algorithms** | **Data Visualization** | **Clustering** |
 | :---: | :---: | :---: | :---: |
 
-<h3 align="center"> Let me Show you the Stats: </h3>
+<h2 align="left"> Let me Show you the Stats: </h2>
 
 ![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=KalyanMurapaka45&theme=vue-dark)
 
