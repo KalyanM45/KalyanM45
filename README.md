@@ -42,6 +42,7 @@
 
 | **Supervised ML Algorithms** | **Unsupervised Algorithms** | **Data Visualization** | **Clustering** |
 | :---: | :---: | :---: | :---: |
+<br>
 
 <h2 align="left"> Let me Show you the Stats: </h2>
 
