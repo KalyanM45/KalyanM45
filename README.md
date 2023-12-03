@@ -55,6 +55,6 @@
  
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /> </p>
 
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=dark&show_icons=true)
 
 
