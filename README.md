@@ -21,7 +21,7 @@
 
 <h5 align="center">
 <code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></code>
-<code><a href="https://medium.com/@kalyanmurapaka274" title="Medium Profile"><img width="95" src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white"></a></code>
+<code><a href="https://medium.com/@kalyanmurapaka274" title="Medium Profile"><img width="95" src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=Black"></a></code>
 </h5>
 
 
