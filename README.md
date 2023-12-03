@@ -51,9 +51,12 @@
 
 <a href="http://www.github.com/KalyanMurapaka45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=dark&show_icons=true)
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanMurapaka45&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=dark&show_icons=true)
+
  
  
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /> </p>
