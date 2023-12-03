@@ -25,7 +25,6 @@
  
 <h2 align="left">Skills & Tech Stack</h2>
 
-<p>
 | **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** |
 | :---: | :---: | :---: | :---: | :---: |
 
@@ -43,7 +42,7 @@
 
 | **Supervised ML Algorithms** | **Unsupervised Algorithms** | **Data Visualization** | **Clustering** |
 | :---: | :---: | :---: | :---: |
-</p>
+
 
 <h3 align="left">Let me Show you the Stats:</h3>
 
