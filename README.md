@@ -10,7 +10,7 @@
   <br>
   <br>
   👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
-  <be><br>
+  <br><br>
   🌱 I’m currently Working on Generative Artificial Intelligence Projects
   <br><br>
   ✈️ Apart from academics I enjoy traveling and trekking.
