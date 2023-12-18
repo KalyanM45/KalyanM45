@@ -47,11 +47,10 @@
 <h2 align="left"> Let me Show you the Stats: </h2>
 
 <!-- GitHub Profile Statistics -->
-<a href="http://www.github.com/KalyanMurapaka45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"></a><br>
-
-<img height="230em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br><br>
-![KalyanMurapaka45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanMurapaka45&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![KalyanMurapaka45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false)
+<img height="230em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false"/><br>
+<img height="230em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+<img height="230em" width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanMurapaka45&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+<br>
 
 <!-- Readme Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanMurapaka45&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
