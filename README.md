@@ -48,8 +48,8 @@
 
 <!-- GitHub Profile Statistics -->
 <div>
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
