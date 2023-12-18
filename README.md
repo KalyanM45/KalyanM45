@@ -47,9 +47,10 @@
 <h2 align="left"> Let me Show you the Stats: </h2>
 
 <!-- GitHub Profile Statistics -->
-<img height="150em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false"/><br>
-<img height="150em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-<img height="150em" width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanMurapaka45&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+<div>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=dracula&hide_border=false"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <br>
 
 <!-- Readme Contribution Graph -->
