@@ -49,7 +49,7 @@
 <!-- GitHub Profile Statistics -->
 <div>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=prussian&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 <br>
 
