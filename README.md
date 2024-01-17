@@ -4,6 +4,8 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Science+and+Machine+Learning+%3A)" /> </h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 <p align="center">
   🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
   <br><br>
