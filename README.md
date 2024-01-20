@@ -1,4 +1,4 @@
-I am a Data Science and Machine Learning professional with over 2 years of hands-on experience. I am fascinated by the research happening in the Artificial Intelligence space, and I try my level best to keep up with the advances. Currently, I am Exploring and working on algorithms in the Open-source library [Scikit-learn](https://scikit-learn.org/stable/) while concurrently doing generative AI projects.
+I am a Data Science and Machine Learning professional with over two years of hands-on experience. My fascination lies in the ongoing research within the Artificial Intelligence space, and I make consistent efforts to stay updated on the latest advances. Currently, I am exploring algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on generative AI projects.
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Science+and+Machine+Learning+%3A)" /> </h3>
 
