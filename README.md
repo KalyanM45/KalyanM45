@@ -9,7 +9,7 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
 In my Data Science journey so far,
 
 * In December 2023, I Proudly received <b>LinkedIn's Top Voice 💡</b> badge for <b>Data Science</b>, securing the title of the world's top 2% contributor for collaborative articles. The acknowledgement of my open-source contributions is both rewarding and humbling, and I am grateful for the support of the Data Science Community on LinkedIn.
-* I have been conducted multiple <b>Data Science and Machine Learning</b> Seminars and Workshops.
+* I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
 
 
 <h2 align="left"> Let me Show you the Stats: </h2>
