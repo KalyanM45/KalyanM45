@@ -12,6 +12,7 @@ In my Data Science journey so far,
 * In December 2023, I Proudly received <b>LinkedIn's Top Voice 💡</b> badge for <b>Data Science</b>, securing the title of the world's top 2% contributor for collaborative articles. The acknowledgement of my open-source contributions is both rewarding and humbling, and I am grateful for the support of the Data Science Community on LinkedIn.
 * I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
 * I've assisted numerous individuals in aligning with their project and work requirements and delivering <b>High-quality work</b> to clients.
+* Check out my Projects: [Machine Learning and AI Projects](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Projects.md)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
