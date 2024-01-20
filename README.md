@@ -11,8 +11,8 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
  
 <h2 align="left">Skills & Tech Stack</h2>
 
-| **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** |
-| :---: | :---: | :---: | :---: | :---: |
+| **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** | **Python** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 | **Python** | **Java** | **C** | **OOPs Concepts** | **Git** | **GitHub** | **Docker** | **TensorFlow** | **OpenCV** | **Flask** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
