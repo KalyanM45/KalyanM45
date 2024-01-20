@@ -14,7 +14,7 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
 | **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** | **Python** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| **Python** | **Java** | **C** | **OOPs Concepts** | **Git** | **GitHub** | **Docker** | **TensorFlow** | **OpenCV** | **Flask** |
+| **Java** | **C** | **OOPs Concepts** | **Git** | **GitHub** | **Docker** | **TensorFlow** | **OpenCV** | **Flask** | **Streamlit** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | **Streamlit** | **Netlify** | **Heroku** | **PowerBI** | **Tableau** | **OpenAI** | **Langchain** | **MongoDB** | **Hugging Face** |
