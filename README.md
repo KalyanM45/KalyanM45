@@ -1,26 +1,10 @@
-### Hema Kalyan
+### Hema Kalyan Murapaka
 I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on generative AI projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ * I do write blogs and articles on [Medium](https://medium.com/@kalyanmurapaka274)
+ * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
 
-<p align="center">
-  🏫 I’m Pursuing my BTech in information technology from GMR Institute of Technology(GMRIT).
-  <br><br>
-  👉 I'm very much passionate about Data Science, Artificial Intelligence, Deep Learning, and Machine Learning
-  <br><br>
-  🌱 I’m currently Working on Generative Artificial Intelligence Projects
-  <br><br>
-  ✈️ Apart from academics I enjoy Blogging, traveling and trekking.
-  <br><br>
-  📫 How to reach me: <a href="mailto: kalyanmurapaka274@gmail.com">kalyanmurapaka274@gmail.com</a>
-  <br><br>
-  📄 Resume : <a href="https://drive.google.com/file/d/1CGOctjKxnpIIJo7OZnYVnjUnCQr3M_Ea/view?usp=sharing" title="Resume">Click Here</a>
-</p>
-
-<h5 align="center">
-<code><a href="https://www.linkedin.com/in/hemakalyan/" title="LinkedIn Profile"><img width="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></code>
-<code><a href="https://medium.com/@kalyanmurapaka274" title="Medium Profile"><img width="95" src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=Black"></a></code>
-</h5>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  
 <h2 align="left">Skills & Tech Stack</h2>
 
