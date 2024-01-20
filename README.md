@@ -3,6 +3,8 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
 
  * I do write blogs and articles on [Medium](https://medium.com/@kalyanmurapaka274)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
+   
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  
