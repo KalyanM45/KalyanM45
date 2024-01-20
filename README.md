@@ -1,5 +1,5 @@
 ### Hema Kalyan
-I am a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination towards Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on generative AI projects
+I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination towards Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on generative AI projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
