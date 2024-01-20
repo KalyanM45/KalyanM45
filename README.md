@@ -1,6 +1,4 @@
-<a href="https://hemakalyan.netlify.app/">![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/Github%20Banner.png)></a>
-
-<h1 align="center">Hi 👋 I'm Murapaka Hema Kalyan</h1>
+I am a Data Science and Machine Learning professional with over 2 years of hands-on experience. I am fascinated by the research happening in the Artificial Intelligence space, and I try my level best to keep up with the advances. Currently, I am Exploring and working on algorithms in the Open-source library [Scikit-learn](https://scikit-learn.org/stable/) while concurrently doing generative AI projects.
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Data+Science+and+Machine+Learning+%3A)" /> </h3>
 
