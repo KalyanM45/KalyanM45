@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Hema+Kalyan+%3A)"> 
-I am a Data Science and Machine Learning professional with over two years of hands-on experience. My fascination lies in the ongoing research within the Artificial Intelligence space, and I make consistent efforts to stay updated on the latest advances. Currently, I am exploring algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable/) while concurrently working on generative AI projects.
+### Hema Kalyan
+I am a Data Science and Machine Learning professional with over two years of hands-on experience. My fascination lies in the ongoing research within the Artificial Intelligence space, and I make consistent efforts to stay updated on the latest advances. Currently, I am exploring algorithms in the open-source library [Scikit learn](https://scikit-learn.org/stable/) while concurrently working on generative AI projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
