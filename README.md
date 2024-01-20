@@ -3,32 +3,14 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
 
  * I do write blogs and articles on [Medium](https://medium.com/@kalyanmurapaka274)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
-   
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/KalyanMurapaka45) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KalyanMurapaka45) [![GitHub](https://img.shields.io/badge/Follow-me-brightgreen.svg?style=flat&logo=github)](https://github.com/KalyanMurapaka45)
-
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
- 
-<h2 align="left">Skills & Tech Stack</h2>
 
-| **Machine Learning** | **Deep Learning** | **Data Science** | **Natural Language Processing** | **Computer Vision** | **Python** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+In my Data Science journey so far,
 
-| **Java** | **C** | **OOPs Concepts** | **Git** | **GitHub** | **Docker** | **TensorFlow** | **OpenCV** | **Flask** | **Streamlit** |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+* In December 2023, I Proudly received <b>LinkedIn's Top Voice 💡</b> badge for <b>Data Science</b>, securing the title of the world's top 2% contributor for collaborative articles. The acknowledgement of my open-source contributions is both rewarding and humbling, and I am grateful for the support of the Data Science Community on LinkedIn.
+* I have been conducted multiple <b>Data Science and Machine Learning</b> Seminars and Workshops.
 
-| **Streamlit** | **Netlify** | **Heroku** | **PowerBI** | **Tableau** | **OpenAI** | **Langchain** | **MongoDB** | **Hugging Face** |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| **SQL** | **Data Version Control** | **Statistics** | **Data Analysis** | **Neural Networks** | **Web Scraping** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
-| **NumPy** | **Pandas** | **Matplotlib** | **Seaborn** | **PyCaret** | **Scikit-learn** | **Problem Solving & Analysis** |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| **Supervised ML Algorithms** | **Unsupervised Algorithms** | **Data Visualization** | **Clustering** |
-| :---: | :---: | :---: | :---: |
-<br>
 
 <h2 align="left"> Let me Show you the Stats: </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
