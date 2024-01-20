@@ -2,7 +2,7 @@
 I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on generative AI projects
 
  * I do write blogs and articles on [Medium](https://medium.com/@kalyanmurapaka274)
- * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
+ * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :) <p align="center"><img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  
@@ -42,4 +42,4 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
 
 
 <!-- Profile Visitors Count -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p>
+
