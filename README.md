@@ -1,5 +1,5 @@
 ### Hema Kalyan Murapaka
-I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on generative AI projects
+I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on <b>Generative Artificial Intelligence projects</b>
 
  * I do write blogs and articles on [Medium](https://medium.com/@kalyanmurapaka274)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
