@@ -13,20 +13,15 @@ In my Data Science journey so far,
 * I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
 * I've assisted numerous individuals in aligning with their project and work requirements and delivering <b>High-quality work</b> to clients.
 
-
-<h2 align="left"> Let me Show you the Stats: </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<!-- GitHub Profile Statistics -->
 <div>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanMurapaka45&theme=prussian&hide_border=false"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalyanMurapaka45&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
-</div>
-<br>
+</div><br>
 
 <!-- Readme Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanMurapaka45&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-
 <!-- Profile Visitors Count -->
- <p align="center"><img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kalyanmurapaka45&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p>
