@@ -33,7 +33,7 @@
 | S No | Project Name | Specifications | Repository |
 | ---- | ------------ | --------------- | ---------- |
 | 01    | Deep Fake Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
-| 02    | Arrhythmia Disease Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+| 02    | Arhythmia Disease Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 03    | Driver Drowsiness Detection | Computer Vision | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 04    | Diet Recommendation | Recommendation System | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 05    | Breast Cancer Detection | Classification | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
