@@ -5,6 +5,7 @@ I'm a Data Science and Machine Learning professional with over 2 years of hands-
  * I do write blogs and articles on [Medium](https://medium.com/@kalyanmurapaka274)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
  * I'm freelancing and providing services in the Artificial Intelligence domain. If you're interested, Go through this [Hire Me](https://github.com/KalyanM45)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="hemakalyan" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
