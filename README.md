@@ -1,4 +1,4 @@
-## [Hema Kalyan Murapaka](https://hemakalyan.netlify.app)
+## [Hema Kalyan Murapaka](https://kalyanm45.github.io)
 I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) while concurrently working on <b>Generative Artificial Intelligence projects</b>
 
  * Resume: [<b>View Hema Kalyan's Resume</b>](https://t.ly/3wHoP)   
