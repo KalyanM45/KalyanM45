@@ -1,7 +1,7 @@
 ## [Hema Kalyan Murapaka](https://kalyanm45.github.io)
-I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) and open sources tools while concurrently working on <b>Generative Artificial Intelligence projects</b>
+I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) and open sources tool [Evidently AI](https://www.evidentlyai.com), while concurrently working on <b>Generative Artificial Intelligence projects</b>
 
- * Resume: [<b>View Hema Kalyan's Resume</b>](https://t.ly/3wHoP)   
+ * Resume: [<b>View Hema Kalyan's Resume</b>](https://drive.google.com/file/d/18s0corsdrbhHfalKuMe82Mev37rHf13b/view?usp=sharing)   
  * I do write blogs and articles on [Medium](https://medium.com/@kalyan45)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
  * I'm freelancing and providing services in the Artificial Intelligence domain. If you're interested, Go through this [Hire Me](https://github.com/KalyanM45)
