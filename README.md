@@ -14,7 +14,7 @@ In my Data Science journey so far,
 * I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
 * I've assisted numerous individuals in aligning with their project and work requirements and delivering <b>High-quality work</b> to clients.
 * I've done multiple <b>End-to-End Projects</b> on various use cases such as Web Scraping, Chatbot Development, Natural Language Processing and Computer Vision.
-* Check out my Projects: [Machine Learning and AI Projects](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/PROJECTS.md)
+* Check out my Projects: [Machine Learning and AI Projects](https://github.com/KalyanM45/Project-Gallery)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
