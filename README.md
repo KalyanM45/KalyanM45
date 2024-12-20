@@ -19,8 +19,8 @@ In my Data Science & AI journey so far,
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalyanM45&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanM45&theme=prussian&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KalyanM45&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
 </div><br>
 
 <!-- Readme Contribution Graph -->
