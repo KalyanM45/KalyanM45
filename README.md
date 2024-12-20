@@ -1,10 +1,9 @@
 ## [Hema Kalyan Murapaka](https://kalyanm45.github.io)
-I'm a Data Science and Machine Learning professional with over 2 years of hands-on experience. My fascination with Artificial Intelligence propels me to explore algorithms in the open-source library [Scikit-learn](https://scikit-learn.org/stable) and open sources tool [Evidently AI](https://www.evidentlyai.com), while concurrently working on <b>Generative Artificial Intelligence projects</b>
+I'm a Data Science and Machine Learning professional with over 3 years of hands-on experience working as an Associate in ZoomRx. My fascination with Artificial Intelligence propels me to explore open-source libraries [Scikit-learn](https://scikit-learn.org/stable) and open sources tool [Evidently AI](https://www.evidentlyai.com), while concurrently working on <b>Generative Artificial Intelligence projects</b>
 
- * Resume: [<b>View Hema Kalyan's Resume</b>](https://drive.google.com/file/d/18s0corsdrbhHfalKuMe82Mev37rHf13b/view?usp=sharing)   
+ * Resume: [<b>View Hema Kalyan's Resume</b>](https://www.linkedin.com/in/hemakalyan/overlay/1707864994921/single-media-viewer/?profileId=ACoAADmep7QBb8t8l7K6529PrhRRjUCWzufUG5M)   
  * I do write blogs and articles on [Medium](https://medium.com/@kalyan45)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
- * I'm freelancing and providing services in the Artificial Intelligence domain. If you're interested, Go through this [Hire Me](https://github.com/KalyanM45)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
