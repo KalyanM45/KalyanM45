@@ -7,7 +7,7 @@ I'm a Data Science and Machine Learning professional with over 3 years of hands-
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  
-### 🌱 What I'm Passionate About
+#### 🌱 What I'm Passionate About
 
 * **AI That Empowers:** Creating tools that make developers & students more productive.
 * **Open Tech for Impact:** Advancing healthcare and finance education through accessible AI-driven innovations.
@@ -15,7 +15,7 @@ I'm a Data Science and Machine Learning professional with over 3 years of hands-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-### 🎖 Nice Things That Happened Along The Way
+#### 🎖 Nice Things That Happened Along The Way
 
 * In December 2023, I received <b>LinkedIn's Top Voice 💡</b> badge for <b>Data Science</b>, securing the title of the world's top 2% contributor for collaborative articles. Acknowledging my open-source contributions is rewarding and humbling, and I am grateful for the support of the Data Science Community on LinkedIn.
 * I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
