@@ -1,11 +1,11 @@
 ## [Hema Kalyan Murapaka](https://kalyanm45.github.io)
 I'm a Data Science and Machine Learning professional with over 3 years of hands-on experience working as an Associate in ZoomRx. My fascination with Artificial Intelligence propels me to explore open-source libraries [Scikit-learn](https://scikit-learn.org/stable) and open sources tool [Evidently AI](https://www.evidentlyai.com), while concurrently working on <b>Generative Artificial Intelligence projects</b>
 
+I love discussing about tech, finance, or anything that can uplift communities. If you’re building something interesting or want to contribute, let’s connect. Your support helps maintain open-source projects and spark new ideas!
+
  * Resume: [<b>View Hema Kalyan's Resume</b>](https://www.linkedin.com/in/hemakalyan/overlay/1707864994921/single-media-viewer/?profileId=ACoAADmep7QBb8t8l7K6529PrhRRjUCWzufUG5M)   
  * I do write blogs and articles on [Medium](https://medium.com/@kalyan45)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
-
-I love discussing about tech, finance, or anything that can uplift communities. If you’re building something interesting or want to contribute, let’s connect. Your support helps maintain open-source projects and spark new ideas!
 
 **If you find my work impactful and want to help sustain these efforts, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/KalyanM45).**
 
