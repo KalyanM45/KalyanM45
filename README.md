@@ -7,7 +7,7 @@ I'm a Data Science and Machine Learning professional with over 3 years of hands-
 
 I love discussing about tech, finance, or anything that can uplift communities. If you’re building something interesting or want to contribute, let’s connect. Your support helps maintain open-source projects and spark new ideas!
 
-**If you find my work impactful and want to help sustain these efforts, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/bodhish).**
+**If you find my work impactful and want to help sustain these efforts, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/KalyanM45).**
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  
