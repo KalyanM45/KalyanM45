@@ -6,6 +6,14 @@ I'm a Data Science and Machine Learning professional with over 3 years of hands-
  * You can find me on [LinkedIn](https://www.linkedin.com/in/hemakalyan) and do follow me :)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ 
+### 🌱 What I'm Passionate About
+
+* **AI That Empowers:** Creating tools that make developers & students more productive.
+* **Open Tech for Impact:** Advancing healthcare and finance education through accessible AI-driven innovations.
+* **Community-Driven Innovation:** Collaborating with global developers to tackle real-world challenges with AI.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 In my Data Science & AI journey so far,
 
