@@ -2,8 +2,6 @@
 
 I'm an Artificial Intelligence and Machine Learning professional with 3+ years of experience in innovating and deploying AI models.  Driven by a deep passion for AI, I actively research open-source and industry-leading libraries and tools, build end-to-end projects across diverse use cases and domains, while concurrently working on <b>ZoomRx</b> as a <b>Data Science Associate</b>
 
-* <b>Current Playlist:</b> Geographic Information Systems, Graphical Neural Networks, Large Language Models
-
 I love discussing about tech, finance, or anything that can uplift communities. If you’re building something interesting or want to contribute, let’s connect. Your support helps maintain open-source projects and spark new ideas!
 
  * Resume: [<b>View Hema Kalyan's Resume</b>](https://www.linkedin.com/in/hemakalyan/overlay/1707864994921/single-media-viewer/?profileId=ACoAADmep7QBb8t8l7K6529PrhRRjUCWzufUG5M)   
