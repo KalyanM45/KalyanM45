@@ -35,7 +35,7 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 
 <div>
  <img width="400em" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanM45&theme=prussian&hide_border=false"/>
- <img width="300em" height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KalyanM45&layout=compact&theme=prussian"/>
+ <img width="400em" height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KalyanM45&layout=compact&theme=prussian"/>
 </div><br>
 
 <!-- Readme Contribution Graph -->
