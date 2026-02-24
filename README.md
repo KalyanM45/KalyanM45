@@ -32,12 +32,8 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-
-<div>
- <img width="400em" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanM45&theme=prussian&hide_border=false"/>
- <img width="400em" height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KalyanM45&layout=compact&theme=prussian"/>
-</div><br>
-
+<p align="center"><img width="400em" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanM45&theme=prussian&hide_border=false"/></p>
+<br>
 <!-- Readme Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanM45&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
