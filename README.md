@@ -34,8 +34,15 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 
 <!-- Personal Stats -->
 <p align="center">
- <img src="https://github-readme-stats.shion.dev/api?username=KalyanM45&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" height="175" hspace="10"/>
- <img src="https://streak-stats.demolab.com/?user=KalyanM45&theme=prussian&hide_border=false" height="175" hspace="10"/>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=KalyanM45&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
+    height="175"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=KalyanM45&theme=prussian&hide_border=false"
+    height="175"
+  />
 </p>
 
 
