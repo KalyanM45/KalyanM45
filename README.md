@@ -36,12 +36,12 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api?username=KalyanM45&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
-    height="175"
+    height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img
     src="https://streak-stats.demolab.com/?user=KalyanM45&theme=prussian&hide_border=false"
-    height="175"
+    height="165"
   />
 </p>
 
