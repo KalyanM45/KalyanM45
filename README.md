@@ -24,7 +24,7 @@ I love discussing about tech, finance, or anything that can uplift communities. 
 
 #### 🎖 Nice Things That Happened Along The Way
 * In June 2026, my open-source repositories crossed **5,000+ GitHub stars**, a milestone driven entirely by the active contributions and support of the global developer community.
-* In May 2026, I connected with over **1,000+ developers** through my AI/ML projects, focusing on building a collaborative, community-driven space.
+* In May 2026, I achieved the milestone of **1,000+ GitHub followers** through building and sharing AI/ML open-source projects.
 * In December 2023, I received <b>LinkedIn's Top Voice 💡</b> badge for <b>Data Science</b>, securing the title of the world's top 2% contributor for collaborative articles. Acknowledging my open-source contributions is rewarding and humbling, and I am grateful for the support of the Data Science Community on LinkedIn.
 * I have conducted multiple <b>Data Science and Machine Learning Seminars and Workshops</b>, which have helped so many students
 * I've assisted numerous individuals in aligning with their project and work requirements and delivering <b>High-quality work</b> to clients.
